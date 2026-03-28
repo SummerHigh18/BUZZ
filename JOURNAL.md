@@ -28,9 +28,13 @@ Then, I added all the 3D parts to each one of them.
 
 # March 28th: Session 3 - Firmware
 This part was hard for me since I was new to C++, but managed to learn it:)
+
 I learned all the basics first, took some inspiration from other projects and then wrote it all.
+
 I used AI for learning the basics and syntax(Didn't vibe-coded obviously)
-Will update with Rotary brightness control asap after I learn    C++ more.
+
+Will update with Rotary brightness control asap after I learn C++ more.
+
 ![firmware](/Images/image-4.png)
 **Time: 1.5 hrs**
 
