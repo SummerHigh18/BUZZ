@@ -19,6 +19,9 @@ Firmware: ![alt text](/Images/image-8.png)
 
 Reference: Pathfinder 
 
+Used AI only for learning C++.
+This can be clearly verified in Lapse.
+
 Lapse: [PCB & Schematic](https://lapse.hackclub.com/timelapse/kYEc9Qr827Vl)
 [Firmware](https://lapse.hackclub.com/timelapse/75gp1n5K34I-)
 
